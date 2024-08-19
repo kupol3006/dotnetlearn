@@ -1,0 +1,92 @@
+[
+  {
+    "name": "iPhone 14",
+    "description": "Latest Apple iPhone with advanced features",
+    "price": 999,
+    "pictureUrl": "https://example.com/iphone14.jpg",
+    "type": "Smartphone",
+    "brand": "Apple",
+    "quantityInStock": 50
+  },
+  {
+    "name": "iPhone 14 Case",
+    "description": "Protective case for iPhone 14",
+    "price": 49,
+    "pictureUrl": "https://example.com/iphone14case.jpg",
+    "type": "Accessory",
+    "brand": "Apple",
+    "quantityInStock": 150
+  },
+  {
+    "name": "iPhone 14 Charger",
+    "description": "Fast charger for iPhone 14",
+    "price": 29,
+    "pictureUrl": "https://example.com/iphone14charger.jpg",
+    "type": "Accessory",
+    "brand": "Apple",
+    "quantityInStock": 200
+  },
+  {
+    "name": "iPhone 14 Screen Protector",
+    "description": "Tempered glass screen protector for iPhone 14",
+    "price": 19,
+    "pictureUrl": "https://example.com/iphone14screenprotector.jpg",
+    "type": "Accessory",
+    "brand": "Apple",
+    "quantityInStock": 300
+  },
+  {
+    "name": "iPhone 14 EarPods",
+    "description": "Apple EarPods with Lightning Connector",
+    "price": 29,
+    "pictureUrl": "https://example.com/iphone14earpods.jpg",
+    "type": "Accessory",
+    "brand": "Apple",
+    "quantityInStock": 100
+  },
+  {
+    "name": "iPhone 14 Wireless Charger",
+    "description": "Wireless charging pad for iPhone 14",
+    "price": 59,
+    "pictureUrl": "https://example.com/iphone14wirelesscharger.jpg",
+    "type": "Accessory",
+    "brand": "Apple",
+    "quantityInStock": 80
+  },
+  {
+    "name": "iPhone 14 Leather Wallet",
+    "description": "Leather wallet that attaches to the back of iPhone 14",
+    "price": 69,
+    "pictureUrl": "https://example.com/iphone14leatherwallet.jpg",
+    "type": "Accessory",
+    "brand": "Apple",
+    "quantityInStock": 120
+  },
+  {
+    "name": "iPhone 14 Dock",
+    "description": "Charging dock for iPhone 14",
+    "price": 79,
+    "pictureUrl": "https://example.com/iphone14dock.jpg",
+    "type": "Accessory",
+    "brand": "Apple",
+    "quantityInStock": 60
+  },
+  {
+    "name": "iPhone 14 Battery Pack",
+    "description": "MagSafe battery pack for iPhone 14",
+    "price": 99,
+    "pictureUrl": "https://example.com/iphone14batterypack.jpg",
+    "type": "Accessory",
+    "brand": "Apple",
+    "quantityInStock": 90
+  },
+  {
+    "name": "iPhone 14 Car Mount",
+    "description": "Magnetic car mount for iPhone 14",
+    "price": 39,
+    "pictureUrl": "https://example.com/iphone14carmount.jpg",
+    "type": "Accessory",
+    "brand": "Apple",
+    "quantityInStock": 110
+  }
+]
